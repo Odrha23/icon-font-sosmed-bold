@@ -1,0 +1,139 @@
+    /*
+    sosmed-bold icon font: sosmed-bold
+    Creation date: 24/08/2016 12:11
+    */
+
+    @font-face {
+  font-family: "sosmed-bold";
+  src: url("./sosmed-bold.eot");
+  src: url("./sosmed-bold.eot?#iefix") format("embedded-opentype"),
+       url("./sosmed-bold.woff") format("woff"),
+       url("./sosmed-bold.ttf") format("truetype"),
+       url("./sosmed-bold.svg#sosmed-bold") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "sosmed-bold";
+    src: url("./sosmed-bold.svg#sosmed-bold") format("svg");
+  }
+}
+
+    .fi:before{
+        display: inline-block;
+  font-family: "sosmed-bold";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+    }
+
+    .sosmed-bold-addthis:before { content: "\f100"; }
+.sosmed-bold-amazon:before { content: "\f101"; }
+.sosmed-bold-bebo:before { content: "\f102"; }
+.sosmed-bold-behance:before { content: "\f103"; }
+.sosmed-bold-bing:before { content: "\f104"; }
+.sosmed-bold-blogger:before { content: "\f105"; }
+.sosmed-bold-delicious:before { content: "\f106"; }
+.sosmed-bold-deviantart:before { content: "\f107"; }
+.sosmed-bold-digg:before { content: "\f108"; }
+.sosmed-bold-dribbble:before { content: "\f109"; }
+.sosmed-bold-dropbox:before { content: "\f10a"; }
+.sosmed-bold-ebay:before { content: "\f10b"; }
+.sosmed-bold-evernote:before { content: "\f10c"; }
+.sosmed-bold-facebook:before { content: "\f10d"; }
+.sosmed-bold-flickr:before { content: "\f10e"; }
+.sosmed-bold-forrst:before { content: "\f10f"; }
+.sosmed-bold-foursquare:before { content: "\f110"; }
+.sosmed-bold-foursquare-1:before { content: "\f111"; }
+.sosmed-bold-google-plus:before { content: "\f112"; }
+.sosmed-bold-grooveshark:before { content: "\f113"; }
+.sosmed-bold-html:before { content: "\f114"; }
+.sosmed-bold-instagram:before { content: "\f115"; }
+.sosmed-bold-kickstarter:before { content: "\f116"; }
+.sosmed-bold-lastfm:before { content: "\f117"; }
+.sosmed-bold-linkedin:before { content: "\f118"; }
+.sosmed-bold-livejournal:before { content: "\f119"; }
+.sosmed-bold-myspace:before { content: "\f11a"; }
+.sosmed-bold-opera:before { content: "\f11b"; }
+.sosmed-bold-paypal:before { content: "\f11c"; }
+.sosmed-bold-picasa:before { content: "\f11d"; }
+.sosmed-bold-pinterest:before { content: "\f11e"; }
+.sosmed-bold-rss:before { content: "\f11f"; }
+.sosmed-bold-sharethis:before { content: "\f120"; }
+.sosmed-bold-skype:before { content: "\f121"; }
+.sosmed-bold-soundcloud:before { content: "\f122"; }
+.sosmed-bold-stumbleupon:before { content: "\f123"; }
+.sosmed-bold-technorati:before { content: "\f124"; }
+.sosmed-bold-telegram:before { content: "\f125"; }
+.sosmed-bold-tumblr:before { content: "\f126"; }
+.sosmed-bold-twitter:before { content: "\f127"; }
+.sosmed-bold-viber:before { content: "\f128"; }
+.sosmed-bold-vimeo:before { content: "\f129"; }
+.sosmed-bold-vk:before { content: "\f12a"; }
+.sosmed-bold-wikipedia:before { content: "\f12b"; }
+.sosmed-bold-wordpress:before { content: "\f12c"; }
+.sosmed-bold-xing:before { content: "\f12d"; }
+.sosmed-bold-yahoo:before { content: "\f12e"; }
+.sosmed-bold-yandex:before { content: "\f12f"; }
+.sosmed-bold-youtube:before { content: "\f130"; }
+.sosmed-bold-zerply:before { content: "\f131"; }
+    
+    $font-sosmed-bold-addthis: "\f100";
+    $font-sosmed-bold-amazon: "\f101";
+    $font-sosmed-bold-bebo: "\f102";
+    $font-sosmed-bold-behance: "\f103";
+    $font-sosmed-bold-bing: "\f104";
+    $font-sosmed-bold-blogger: "\f105";
+    $font-sosmed-bold-delicious: "\f106";
+    $font-sosmed-bold-deviantart: "\f107";
+    $font-sosmed-bold-digg: "\f108";
+    $font-sosmed-bold-dribbble: "\f109";
+    $font-sosmed-bold-dropbox: "\f10a";
+    $font-sosmed-bold-ebay: "\f10b";
+    $font-sosmed-bold-evernote: "\f10c";
+    $font-sosmed-bold-facebook: "\f10d";
+    $font-sosmed-bold-flickr: "\f10e";
+    $font-sosmed-bold-forrst: "\f10f";
+    $font-sosmed-bold-foursquare: "\f110";
+    $font-sosmed-bold-foursquare-1: "\f111";
+    $font-sosmed-bold-google-plus: "\f112";
+    $font-sosmed-bold-grooveshark: "\f113";
+    $font-sosmed-bold-html: "\f114";
+    $font-sosmed-bold-instagram: "\f115";
+    $font-sosmed-bold-kickstarter: "\f116";
+    $font-sosmed-bold-lastfm: "\f117";
+    $font-sosmed-bold-linkedin: "\f118";
+    $font-sosmed-bold-livejournal: "\f119";
+    $font-sosmed-bold-myspace: "\f11a";
+    $font-sosmed-bold-opera: "\f11b";
+    $font-sosmed-bold-paypal: "\f11c";
+    $font-sosmed-bold-picasa: "\f11d";
+    $font-sosmed-bold-pinterest: "\f11e";
+    $font-sosmed-bold-rss: "\f11f";
+    $font-sosmed-bold-sharethis: "\f120";
+    $font-sosmed-bold-skype: "\f121";
+    $font-sosmed-bold-soundcloud: "\f122";
+    $font-sosmed-bold-stumbleupon: "\f123";
+    $font-sosmed-bold-technorati: "\f124";
+    $font-sosmed-bold-telegram: "\f125";
+    $font-sosmed-bold-tumblr: "\f126";
+    $font-sosmed-bold-twitter: "\f127";
+    $font-sosmed-bold-viber: "\f128";
+    $font-sosmed-bold-vimeo: "\f129";
+    $font-sosmed-bold-vk: "\f12a";
+    $font-sosmed-bold-wikipedia: "\f12b";
+    $font-sosmed-bold-wordpress: "\f12c";
+    $font-sosmed-bold-xing: "\f12d";
+    $font-sosmed-bold-yahoo: "\f12e";
+    $font-sosmed-bold-yandex: "\f12f";
+    $font-sosmed-bold-youtube: "\f130";
+    $font-sosmed-bold-zerply: "\f131";
